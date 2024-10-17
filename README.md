@@ -1,9 +1,9 @@
 Group: Applied09 Team2
 Name:
-* Dawen Zhang (34202587)
-* Yuebo Feng (34692959)
-* Zeyu Gong (34389296)
-* Xi He (31159214)
+* Dawen Zhang
+* Yuebo Feng
+* Zeyu Gong
+* Xi He
 
 Project Description
     This project is a Java-based application developed for Monash Wellness-Class Booking System (MWBS) to manage registration, booking, cancellation and payment management of fitness classes.
